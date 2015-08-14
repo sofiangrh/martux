@@ -1,5 +1,5 @@
 # martux
-Metacity Theme. A mix of Milk + Tux + Ubuntu
+Metacity Theme. A mix of Milk + Tux + Ubuntu.
 
 # Two Metacity Themes
 - Martux_1 with rounded tux with colors
